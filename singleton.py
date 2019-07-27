@@ -8,7 +8,7 @@ class Singleton(object):
 class MyClass(Singleton):
     def __init__(self,name):
         if name:
-            self.name = name
+            self.name = nam
 
 a = MyClass('a')
 print(a)
