@@ -20,3 +20,14 @@ print(b.name)
 
 print(a)
 print(a.name)
+
+a = MyClass('a')
+print(a)
+print(a.name)
+
+b = MyClass('b')
+print(b)
+print(b.name)
+
+print(a)
+print(a.name)
